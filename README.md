@@ -6,7 +6,7 @@
 
 1.  JavaScript
 2.  React.JS
-3.  React Router
+3.  React Router (npm install react-router-dom)
 
 <!--
 # Getting Started with Create React App
